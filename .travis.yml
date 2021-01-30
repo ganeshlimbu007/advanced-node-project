@@ -14,4 +14,4 @@ cache:
     - client/node_modules
 install:
   - npm install
-  - mpm run build
+  - npm run build
